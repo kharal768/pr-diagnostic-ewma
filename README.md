@@ -4,6 +4,8 @@ Code for the paper
 
 > Imran, M., Zaidi, F. S., & He, Z. *A participation-ratio diagnostic, validated in simulation, for choosing between sparsity-adaptive and multivariate EWMA charts for mean shifts.*
 
+https://doi.org/10.5281/zenodo.2423778
+
 The scripts reproduce the simulation study, the Tennessee Eastman and WaDi case studies, and the five figures of the paper. They contain the run-length engine for every chart compared (MEWMA, BAS-EWMA, G-BAS, MCUSUM, VS-MEWMA, LEWMA, top-r CUSUM, thresholded and mixture EWMA, LAR-EWMA and MSGL-EWMA) and `gain_curve.py`, which returns the gain of BAS-EWMA over MEWMA and the break-even participation ratio for a configuration you specify.
 
 ## Layout
