@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code and results for: A participation-ratio diagnostic, validated in simulation, for choosing between sparsity-adaptive and multivariate EWMA charts for mean shifts"
+version: 1.1.0
+date-released: 2026-11-15
+authors:
+  - family-names: Imran
+    given-names: Muhammad
+    affiliation: Tianjin University
+  - family-names: Zaidi
+    given-names: Fatima Sehar
+    affiliation: Tianjin University
+  - family-names: He
+    given-names: Zhen
+    affiliation: Tianjin University
