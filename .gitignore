@@ -1,0 +1,21 @@
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*.nbi
+*.nbc
+
+# Data (downloaded separately; see README)
+data/*
+!data/README.md
+
+# Generated outputs
+code/*.json
+code/*.log
+figures/
+*.npz
+*.npy
+*.parquet
+
+# Editor and OS files
+.ipynb_checkpoints/
+.DS_Store

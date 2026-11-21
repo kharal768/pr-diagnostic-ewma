@@ -1,0 +1,10 @@
+# Versions with which the scripts were run and their outputs re-verified (Python 3.13).
+numpy==2.5.3
+scipy==1.18.1
+numba==0.68.1
+matplotlib==3.11.2
+# Needed only for the case studies (versions installed, not re-verified end to end):
+scikit-learn==1.9.1
+pandas==3.0.5
+pyarrow==26.0.1
+pyreadr==0.5.9

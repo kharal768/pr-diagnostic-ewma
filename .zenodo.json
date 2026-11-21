@@ -1,0 +1,28 @@
+{
+  "title": "Code and results for: A participation-ratio diagnostic, validated in simulation, for choosing between sparsity-adaptive and multivariate EWMA charts for mean shifts",
+  "upload_type": "software",
+  "version": "1.1.1",
+  "description": "Python/Numba run-length engine for MEWMA, BAS-EWMA, G-BAS and competing sparsity-adaptive charts; analysis scripts with fixed random seeds for the simulation study and the Tennessee Eastman and WaDi case studies; and a function returning the gain curve and break-even participation ratio for a user-specified configuration. Data (Tennessee Eastman, WaDi) are not redistributed; see README.",
+  "creators": [
+    {
+      "name": "Imran, Muhammad",
+      "affiliation": "Tianjin University"
+    },
+    {
+      "name": "Zaidi, Fatima Sehar",
+      "affiliation": "Tianjin University"
+    },
+    {
+      "name": "He, Zhen",
+      "affiliation": "Tianjin University"
+    }
+  ],
+  "keywords": [
+    "statistical process control",
+    "MEWMA",
+    "sparse mean shifts",
+    "participation ratio",
+    "control charts"
+  ],
+  "license": "MIT"
+}
