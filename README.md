@@ -206,7 +206,3 @@ No data are included. Download them from their sources and place them under `dat
 | `te_random_groups_eval2_summary.py` | Summary of the random partitions of te_random_groups_eval2.py: mean gain, percentiles, Holm- significant gains and losses, and the percentile of the engineering grouping | Supplement S11 |
 | `te_robust.py` | Robustness of the residual comparison under matched limits: all runs, log delays and the Wilcoxon signed-rank test, Holm over faults (raw group maximum) | Supplement S5 |
 | `te_robust_std.py` | As te_robust.py with the chi-square-standardised group maximum | Supplement S5 |
-
-## Citation
-
-If you use this code, please cite the paper (see `CITATION.cff`).
